@@ -1,4 +1,4 @@
-{
+[
     "2024-03": {
         "origin": "MOW",
         "destination": "HKT",
@@ -131,4 +131,4 @@
         "flight_number": 910,
         "transfers": 1
     }
-}
+]
