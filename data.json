@@ -1,5 +1,5 @@
 [
-    "2024-03": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "SU",
@@ -10,7 +10,7 @@
         "flight_number": 1564,
         "transfers": 2
     },
-    "2024-04": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -21,7 +21,7 @@
         "flight_number": 2076,
         "transfers": 2
     },
-    "2024-05": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "5N",
@@ -32,7 +32,7 @@
         "flight_number": 275,
         "transfers": 3
     },
-    "2024-06": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -43,7 +43,7 @@
         "flight_number": 2076,
         "transfers": 2
     },
-    "2024-08": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -54,7 +54,7 @@
         "flight_number": 2076,
         "transfers": 2
     },
-    "2024-09": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -65,7 +65,7 @@
         "flight_number": 2076,
         "transfers": 2
     },
-    "2024-10": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -76,7 +76,7 @@
         "flight_number": 2076,
         "transfers": 2
     },
-    "2024-11": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -87,7 +87,7 @@
         "flight_number": 2076,
         "transfers": 2
     },
-    "2024-12": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "MU",
@@ -98,7 +98,7 @@
         "flight_number": 592,
         "transfers": 1
     },
-    "2025-01": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "CA",
@@ -109,7 +109,7 @@
         "flight_number": 910,
         "transfers": 1
     },
-    "2025-02": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "CA",
@@ -120,7 +120,7 @@
         "flight_number": 910,
         "transfers": 1
     },
-    "2025-03": {
+    {
         "origin": "MOW",
         "destination": "HKT",
         "airline": "CA",
