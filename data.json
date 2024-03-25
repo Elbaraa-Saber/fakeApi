@@ -1,138 +1,135 @@
+
 {
-    "data": {
-        "2024-03": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "SU",
-            "departure_at": "2024-03-28T16:30:00+03:00",
-            "return_at": "2024-04-23T19:30:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 741,
-            "flight_number": 1564,
-            "transfers": 2
-        },
-        "2024-04": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-04-22T17:15:00+03:00",
-            "return_at": "2024-05-01T00:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 567,
-            "flight_number": 2076,
-            "transfers": 2
-        },
-        "2024-05": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "5N",
-            "departure_at": "2024-05-03T17:20:00+03:00",
-            "return_at": "2024-06-01T09:45:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 504,
-            "flight_number": 275,
-            "transfers": 3
-        },
-        "2024-06": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-06-05T17:15:00+03:00",
-            "return_at": "2024-06-09T23:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 565,
-            "flight_number": 2076,
-            "transfers": 2
-        },
-        "2024-08": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-08-30T17:15:00+03:00",
-            "return_at": "2024-09-01T23:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 743,
-            "flight_number": 2076,
-            "transfers": 2
-        },
-        "2024-09": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-09-17T17:15:00+03:00",
-            "return_at": "2024-10-16T00:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 624,
-            "flight_number": 2076,
-            "transfers": 2
-        },
-        "2024-10": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-10-16T17:15:00+03:00",
-            "return_at": "2024-10-23T00:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 623,
-            "flight_number": 2076,
-            "transfers": 2
-        },
-        "2024-11": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-11-16T17:15:00+03:00",
-            "return_at": "2024-12-14T23:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 654,
-            "flight_number": 2076,
-            "transfers": 2
-        },
-        "2024-12": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "MU",
-            "departure_at": "2024-12-03T19:10:00+03:00",
-            "return_at": "2024-12-05T23:05:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 657,
-            "flight_number": 592,
-            "transfers": 1
-        },
-        "2025-01": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "CA",
-            "departure_at": "2025-01-08T18:55:00+03:00",
-            "return_at": "2025-01-29T18:25:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 603,
-            "flight_number": 910,
-            "transfers": 1
-        },
-        "2025-02": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "CA",
-            "departure_at": "2025-02-01T18:55:00+03:00",
-            "return_at": "2025-02-24T18:25:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 603,
-            "flight_number": 910,
-            "transfers": 1
-        },
-        "2025-03": {
-            "origin": "MOW",
-            "destination": "HKT",
-            "airline": "CA",
-            "departure_at": "2025-03-05T18:55:00+03:00",
-            "return_at": "2025-03-14T18:25:00+07:00",
-            "expires_at": "2024-03-25T02:55:28Z",
-            "price": 606,
-            "flight_number": 910,
-            "transfers": 1
-        }
+    "2024-03": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "SU",
+        "departure_at": "2024-03-28T16:30:00+03:00",
+        "return_at": "2024-04-23T19:30:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 741,
+        "flight_number": 1564,
+        "transfers": 2
     },
-    "currency": "USD",
-    "success": true
+    "2024-04": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-04-22T17:15:00+03:00",
+        "return_at": "2024-05-01T00:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 567,
+        "flight_number": 2076,
+        "transfers": 2
+    },
+    "2024-05": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "5N",
+        "departure_at": "2024-05-03T17:20:00+03:00",
+        "return_at": "2024-06-01T09:45:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 504,
+        "flight_number": 275,
+        "transfers": 3
+    },
+    "2024-06": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-06-05T17:15:00+03:00",
+        "return_at": "2024-06-09T23:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 565,
+        "flight_number": 2076,
+        "transfers": 2
+    },
+    "2024-08": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-08-30T17:15:00+03:00",
+        "return_at": "2024-09-01T23:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 743,
+        "flight_number": 2076,
+        "transfers": 2
+    },
+    "2024-09": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-09-17T17:15:00+03:00",
+        "return_at": "2024-10-16T00:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 624,
+        "flight_number": 2076,
+        "transfers": 2
+    },
+    "2024-10": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-10-16T17:15:00+03:00",
+        "return_at": "2024-10-23T00:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 623,
+        "flight_number": 2076,
+        "transfers": 2
+    },
+    "2024-11": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-11-16T17:15:00+03:00",
+        "return_at": "2024-12-14T23:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 654,
+        "flight_number": 2076,
+        "transfers": 2
+    },
+    "2024-12": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "MU",
+        "departure_at": "2024-12-03T19:10:00+03:00",
+        "return_at": "2024-12-05T23:05:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 657,
+        "flight_number": 592,
+        "transfers": 1
+    },
+    "2025-01": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "CA",
+        "departure_at": "2025-01-08T18:55:00+03:00",
+        "return_at": "2025-01-29T18:25:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 603,
+        "flight_number": 910,
+        "transfers": 1
+    },
+    "2025-02": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "CA",
+        "departure_at": "2025-02-01T18:55:00+03:00",
+        "return_at": "2025-02-24T18:25:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 603,
+        "flight_number": 910,
+        "transfers": 1
+    },
+    "2025-03": {
+        "origin": "MOW",
+        "destination": "HKT",
+        "airline": "CA",
+        "departure_at": "2025-03-05T18:55:00+03:00",
+        "return_at": "2025-03-14T18:25:00+07:00",
+        "expires_at": "2024-03-25T02:55:28Z",
+        "price": 606,
+        "flight_number": 910,
+        "transfers": 1
+    }
 }
