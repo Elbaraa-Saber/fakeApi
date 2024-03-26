@@ -5,7 +5,7 @@
         "destination": "HKT",
         "airline": "SU",
         "departure_at": "2024-03-28T16:30:00+03:00",
-        "arrive_at": "2024-03-29T5:30:00+07:00",
+        "arrive_at": "2024-03-29T05:30:00+07:00",
         "price": 741,
         "flight_number": 1564,
         "transfers": 2
