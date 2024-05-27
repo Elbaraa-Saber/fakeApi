@@ -14,7 +14,13 @@
                 {
                     "id": "4",
                     "name": "Node 4",
-                    "children": []
+                    "children": [
+                        {
+                            "id": "6",
+                            "name": "NEEEEEEE",
+                            "children": []
+                        }
+                    ]
                 }
             ]
         },
